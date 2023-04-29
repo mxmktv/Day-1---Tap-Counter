@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2D4CFD54-A6A9-4EE1-B378-99043281732A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A9D34327-5CAB-474A-B55B-ED86AE2A876D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Day 1 - Tap Counter/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A9D34327-5CAB-474A-B55B-ED86AE2A876D - efd9c0b3f8f9520d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Day_1___Tap_Counter.ViewController.counter.getter : Swift.Int"
+                  moduleName = "Day 1 - Tap Counter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eastwood/Documents/Study/Day%201%20-%20Tap%20Counter/Day%201%20-%20Tap%20Counter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "A9D34327-5CAB-474A-B55B-ED86AE2A876D - 904c2fb15e1a6e01"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Day_1___Tap_Counter.ViewController.counter.setter : Swift.Int"
+                  moduleName = "Day 1 - Tap Counter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eastwood/Documents/Study/Day%201%20-%20Tap%20Counter/Day%201%20-%20Tap%20Counter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "A9D34327-5CAB-474A-B55B-ED86AE2A876D - 43eb1e07757c7d30"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Day_1___Tap_Counter.ViewController.counter.modify : Swift.Int"
+                  moduleName = "Day 1 - Tap Counter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eastwood/Documents/Study/Day%201%20-%20Tap%20Counter/Day%201%20-%20Tap%20Counter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "A9D34327-5CAB-474A-B55B-ED86AE2A876D - 2d6dc36ce7af7501"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Day_1___Tap_Counter.ViewController.counter.modify : Swift.Int with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Day 1 - Tap Counter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eastwood/Documents/Study/Day%201%20-%20Tap%20Counter/Day%201%20-%20Tap%20Counter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "A9D34327-5CAB-474A-B55B-ED86AE2A876D - 87cbae0ee30fa087"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Day_1___Tap_Counter.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Day_1___Tap_Counter.ViewController"
+                  moduleName = "Day 1 - Tap Counter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eastwood/Documents/Study/Day%201%20-%20Tap%20Counter/Day%201%20-%20Tap%20Counter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "A9D34327-5CAB-474A-B55B-ED86AE2A876D - 4a23ca431e8e9c75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Day_1___Tap_Counter.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Day_1___Tap_Counter.ViewController&gt;"
+                  moduleName = "Day 1 - Tap Counter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eastwood/Documents/Study/Day%201%20-%20Tap%20Counter/Day%201%20-%20Tap%20Counter/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "96E26CA9-B2CA-4B99-8D58-84FB803AF427"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Day 1 - Tap Counter/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "tapActionButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
